@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957420344698",
+    "firebase_url": "https://ecommerce-d54e8.firebaseio.com",
+    "project_id": "ecommerce-d54e8",
+    "storage_bucket": "ecommerce-d54e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957420344698:android:430b91dd3d7ed20fe132c3",
+        "android_client_info": {
+          "package_name": "com.harsi.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957420344698-ah8ek0jknmc4kecg83n9rodruavih2nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4XYF5N4fdHUz62pYToQEq3v5R_pszWj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957420344698-ah8ek0jknmc4kecg83n9rodruavih2nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
